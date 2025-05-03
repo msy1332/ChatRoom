@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "新建配置文件",
+    "Projects": [
+      {
+        "Path": "Client\\Client.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Server\\Server.vcxproj",
+        "Action": "Start",
+        "DebugTarget": "本地 Windows 调试器"
+      }
+    ]
+  }
+]
